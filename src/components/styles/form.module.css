@@ -1,0 +1,76 @@
+
+
+@media screen and (max-width:425px) {
+    .txtfield{
+    width: 14ch;
+}
+    .formdiv{
+    position: relative;
+    left: 24%;
+    transform: translateX(-10%);
+    top:5%;
+}
+.formactions{
+    position: relative;
+    left: 4%;
+    padding-bottom: 20px;
+}
+}
+
+@media screen and (min-width:992px) {
+    .txtfield{
+    width: 40ch;
+}
+    .formdiv{
+    position: relative;
+    left: 22%;
+    transform: translateX(-16%);
+    top:5%;
+}
+.formactions{
+    position: relative;
+    left: 22%;
+    padding-bottom: 20px;
+}
+}
+
+@media screen and (min-width:1200px) {
+    
+.formdiv{
+    position: relative;
+    left: 30%;
+    transform: translateX(-25%);
+    top:5%;
+}
+
+.formactions{
+    position: relative;
+    left: 25%;
+    padding-bottom: 20px;
+}
+
+.txtfield{
+    width: 50ch;
+}
+
+}
+
+@media screen and (min-width:1300px) {
+.formdiv{
+    position: relative;
+    left: 30%;
+    transform: translateX(-16%);
+    top:5%;
+}
+
+.formactions{
+    position: relative;
+    left: 25%;
+    padding-bottom: 20px;
+}
+
+.txtfield{
+    width: 50ch;
+}
+}
+
